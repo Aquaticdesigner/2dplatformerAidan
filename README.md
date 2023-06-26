@@ -1,4 +1,6 @@
 # 2dplatformerAidan
-helps manage the platformer game
+program that helps me manage my first unity platformer game.
 
-hello there
+
+
+I am excite. Yay.
